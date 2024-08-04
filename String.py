@@ -13,5 +13,3 @@ def main():
     a_dict = {'a':1, 'b':2}
     print(a_dict['a']) # =1
 if __name__ == '__main__': main()
-
-
